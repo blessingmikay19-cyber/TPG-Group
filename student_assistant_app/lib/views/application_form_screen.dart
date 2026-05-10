@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 class ApplicationFormScreen extends StatelessWidget {
   const ApplicationFormScreen({super.key});
 

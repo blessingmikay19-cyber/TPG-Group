@@ -8,3 +8,4 @@ class AdminDashboardScreen extends StatelessWidget {
     return const Placeholder();
   }
 }
+
